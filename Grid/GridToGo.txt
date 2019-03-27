@@ -1,1 +1,2 @@
-Build up the mesh first
+Build up the mesh first.
+We need a period in the previous line
