@@ -1,2 +1,3 @@
 Add a line here
 Add a second line here.
+Add a third line after the move on the isolated branch.
